@@ -56,7 +56,7 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
-# CORS_ALLOWED_ORIGINS = [*]
+CORS_ALLOWED_ORIGINS = ["https://opulent-meme-grqpwx45xvj39w4x-3000.app.github.dev"]
 
 ROOT_URLCONF = "backend.urls"
 
